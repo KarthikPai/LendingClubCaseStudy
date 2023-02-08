@@ -19,7 +19,12 @@ the loan, reducing the amount of loan, lending (to risky applicants) at a higher
 <!-- You can include any other section that is pertinent to your problem -->
 
 
-
+## Technologies used
+1. Python
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. Seaborn
 
 
 <!-- Optional -->
